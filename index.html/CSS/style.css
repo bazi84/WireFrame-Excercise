@@ -1,0 +1,30 @@
+.C {
+  background-color: gray;
+  height: 70px;
+}
+
+header img{
+  float: left;
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+header ul {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+}
+.Pholder {
+  width: 300px;
+  float: left;
+}
+.A {
+  padding: 3% 7%;
+}
+.B {
+  padding: 1% 7%;
+  margin: 10px;
+}
